@@ -1,2 +1,2 @@
 # XAL_Digital_Test
-Test for job postulation on Xal Digital
+This was one Job Test to get a contract with Xal Digital
